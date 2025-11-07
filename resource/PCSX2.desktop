@@ -1,8 +1,8 @@
 [Desktop Entry]
-Version=1.0
+Version=0.1
 Terminal=false
 Type=Application
-Name=PCSX2
+Name=Haystation 1.6
 GenericName=Playstation 2 Emulator
 Comment=Sony Playstation 2 emulator
 Exec=AppRun
